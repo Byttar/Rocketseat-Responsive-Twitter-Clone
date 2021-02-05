@@ -7,7 +7,7 @@ import {
   FavoriteBorder,
   Person,
   ExitToApp,
-  Retweet,
+  Twitter
 } from '../../styles/icons';
 
 export const Container = styled.div`
@@ -39,7 +39,7 @@ export const Topside = styled.div`
   }
 `;
 
-export const Logo = styled(Retweet)`
+export const Logo = styled(Twitter)`
   width: 41px;
   height: 41px;
 
